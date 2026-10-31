@@ -6,3 +6,5 @@ uvicorn
 jupyter
 pytest
 httpx
+pydantic>=2,<3
+ruff
